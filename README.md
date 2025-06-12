@@ -1,4 +1,4 @@
-# routstr_frontend
+# Routstr Frontend
 
 - discover open source models provided by other people
 - choose different payment methods
